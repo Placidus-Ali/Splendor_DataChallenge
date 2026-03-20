@@ -143,7 +143,7 @@ Activated organizations show **significantly higher conversion rates** compared 
 
 ---
 
-## 🛠 Tech Stack
+## Tools
 
 * Python (Pandas, NumPy, Scikit-learn)
 * Jupyter Notebook
