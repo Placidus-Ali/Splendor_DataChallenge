@@ -40,7 +40,6 @@ The dataset contains **event-level behavioral data** for organizations during th
 * Converted datetime fields
 * Removed duplicate records
 * Validated trial duration consistency
-
 ---
 
 ### Feature Engineering
@@ -59,7 +58,6 @@ The dataset was transformed from event-level to **organization-level features**,
 * **Behavioral Indicators**
 
   * Binary flags for key product actions (e.g., shift creation, messaging)
-
 ---
 
 ### Exploratory Analysis
@@ -67,7 +65,6 @@ The dataset was transformed from event-level to **organization-level features**,
 * Compared behavior between converted and non-converted organizations
 * Identified that **individual feature usage alone is a weak predictor**
 * Discovered that **engagement intensity and consistency are critical factors**
-
 ---
 
 ### Modeling Approach
